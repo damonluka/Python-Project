@@ -1,5 +1,8 @@
 
-Supermarket - Cashier Code 
+#Supermarket - Cashier Code 
+# 3 membership types gold, silver, bronze, 
+# customers are given discounts based upon memberships 
+# total amount in euros 
 
 def enterProducts():
     buyingData = {}
